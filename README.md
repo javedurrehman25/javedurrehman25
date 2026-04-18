@@ -1,18 +1,20 @@
-## Hi, I'm Javed 👋
+## Hi, I'm Javed Ur Rehman 👋
 
 💻 PHP & Laravel Developer
+
 📍 15+ years experience in web development
+
 🚀 Currently focusing on Laravel, APIs & modern web technologies
 
 🔧 Skills:
 - PHP (Core)
 - Laravel
 - MySQL
-- JavaScript (Basic)
+- JavaScript
 
 📌 Projects:
-- Laravel API Auth System
 - Laravel Job Portal
+- Laravel API Auth System
 
 📫 Contact: [javed@allphptricks.com]
 
